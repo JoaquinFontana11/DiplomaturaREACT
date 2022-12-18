@@ -1,0 +1,14 @@
+span {
+  text-decoration-line: underline;
+}
+img {
+  width: 200px;
+  height: 200px;
+}
+.titulo {
+  font-family: sans-serif;
+}
+.subtitulo {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: gray;
+}
